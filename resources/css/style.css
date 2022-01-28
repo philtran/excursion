@@ -1,4 +1,4 @@
-html {
+body {
     text-align: center;
     background-color: black;
     font-family: Verdana;
@@ -14,7 +14,7 @@ h2 {
     font-weight: 300;
     font-size: 42px;
 }
-.travelguide p {
+p {
     font-size: 21px;
     color: gray;
 }
@@ -24,7 +24,6 @@ a {
     font-size: 16px;
 }
 
-footer p {
+footer {
     text-align: right;
-    color: gray;
 }
