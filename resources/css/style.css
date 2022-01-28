@@ -1,0 +1,30 @@
+html {
+    text-align: center;
+    background-color: black;
+    font-family: Verdana;
+    color: white;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+#forphones p {
+    font-size: 21px;
+    color: gray;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+}
